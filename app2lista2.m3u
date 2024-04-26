@@ -1,0 +1,11 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Anime
+https://r.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Animé Acción
+https://r.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Naruto
+https://r.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Naruto Shippuden
+https://r.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Boruto: Naruto Next Generations
+https://r.mjh.nz/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8.
