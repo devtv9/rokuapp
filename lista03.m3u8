@@ -1,11 +1,259 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Anime
-https://r.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Animé Acción
-https://r.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Naruto
-https://r.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Naruto Shippuden
-https://r.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Boruto: Naruto Next Generations
-https://r.mjh.nz/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
+#EXTINF: -1 tvg-id="asn.mx" tvg-name="DEP | Adrenalina Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES", DEP | Adrenalina Sports
+http://home-playtv.com:8080/Gabriel20/MTPYK/71832
+#EXTINF: -1 tvg-id="afizzionados.mx" tvg-name="DEP | Afizzionados HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", DEP | Afizzionados HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/54984
+#EXTINF: -1 tvg-name="DEP  | Band Sports BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="DEPORTES", DEP  | Band Sports BRA
+http://home-playtv.com:8080/Gabriel20/MTPYK/48534
+#EXTINF: -1 tvg-id="bein.sports.es" tvg-name="DEP | Bein Sports Ñ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES", DEP | Bein Sports Ñ
+http://home-playtv.com:8080/Gabriel20/MTPYK/36401
+#EXTINF: -1 tvg-id="bein.sports.es" tvg-name="DEP | Bein Sports Ñ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES", DEP | Bein Sports Ñ SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/228360
+#EXTINF: -1 tvg-id="Dep|| CDO BASICO SD" tvg-name="DEP | CDO Básico SD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es" group-title="DEPORTES", DEP | CDO Básico SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/12826
+#EXTINF: -1 tvg-id="claro.sports.co" tvg-name="DEP | Claro Sports HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES", DEP | Claro Sports HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/164262
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports 1 ARG HD ►℗" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports 1 ARG HD ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/158511
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports FHD ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports FHD ⭐️
+http://home-playtv.com:8080/Gabriel20/MTPYK/158506
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports 2 HD COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports 2 HD COL
+http://home-playtv.com:8080/Gabriel20/MTPYK/257326
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports 2 SD ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports 2 SD ⭐️
+http://home-playtv.com:8080/Gabriel20/MTPYK/158513
+#EXTINF: -1 tvg-id="espn.extra.cr" tvg-name="DEP | ESPN Extra  MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES", DEP | ESPN Extra  MX
+http://home-playtv.com:8080/Gabriel20/MTPYK/21229
+#EXTINF: -1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1 PE  " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 PE
+http://home-playtv.com:8080/Gabriel20/MTPYK/220727
+#EXTINF: -1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1  SD ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/219173
+#EXTINF: -1 tvg-id="espn.pe" tvg-name="DEP | ESPN 1 PE HD ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/219172
+#EXTINF: -1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1 HD " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/219171
+#EXTINF: -1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/9380
+#EXTINF: -1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/185154
+#EXTINF: -1 tvg-id="espn.2.ar" tvg-name="DEP | ESPN 2 AR " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 AR
+http://home-playtv.com:8080/Gabriel20/MTPYK/185666
+#EXTINF: -1 tvg-id="espn.2.latin.central.america.mx" tvg-name="DEP | ESPN 2 MX HD " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 MX HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/36391
+#EXTINF: -1 tvg-id="espn.3.argentina.ar" tvg-name="DEP | ESPN 3  AR HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES", DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/21220
+#EXTINF: -1 tvg-id="espn.3.mexico.mx" tvg-name="DEP | ESPN 3  MX " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES", DEP | ESPN 3  MX
+http://home-playtv.com:8080/Gabriel20/MTPYK/9530
+#EXTINF: -1 tvg-id="espn.3.mexico.mx" tvg-name="DEP | ESPN 3 MX HD  ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES", DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/186774
+#EXTINF: -1 tvg-id="espn.deportes.mx" tvg-name="DEP | ESPN Deportes SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES", DEP | ESPN Deportes SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/54094
+#EXTINF: -1 tvg-name="DEP | ESPN Extra BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES", DEP | ESPN Extra BRA
+http://home-playtv.com:8080/Gabriel20/MTPYK/168997
+#EXTINF: -1 tvg-id="fox.deportes.en.espanol.mx" tvg-name="DEP | FOX Deportes " tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="DEPORTES", DEP | FOX Deportes
+http://home-playtv.com:8080/Gabriel20/MTPYK/36396
+#EXTINF: -1 tvg-id="fox.sports.2.ar" tvg-name="DEP | FOX Sports 2 ARG HD ►℗" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES", DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/19652
+#EXTINF: -1 tvg-name="DEP | FOX Sports 2 HD BRA" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES", DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/Gabriel20/MTPYK/48540
+#EXTINF: -1 tvg-id="fox.sports.2.mexico.mx" tvg-name="DEP | FOX Sports 2 MEX HD" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES", DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/19495
+#EXTINF: -1 tvg-id="fox.sports.3.ar" tvg-name="DEP | FOX Sports 3 MX HD ►℗" tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES", DEP | FOX Sports 3 MX HD ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/19496
+#EXTINF: -1 tvg-id="fox.sports.3.mx" tvg-name="DEP | FOX Sports 3 HD MEX " tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES", DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/Gabriel20/MTPYK/9538
+#EXTINF: -1 tvg-id="fox.sports.premium.ar" tvg-name="DEP | ESPN Premium HD AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES", DEP | ESPN Premium HD AR
+http://home-playtv.com:8080/Gabriel20/MTPYK/215252
+#EXTINF: -1 tvg-id="fox.sports.premium.ar" tvg-name="DEP | FOX Sports Premium op2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234" group-title="DEPORTES", DEP | FOX Sports Premium op2
+http://home-playtv.com:8080/Gabriel20/MTPYK/21298
+#EXTINF: -1 tvg-id="gol.co" tvg-name="DEP | GOL TV LAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTES", DEP | GOL TV LAT
+http://home-playtv.com:8080/Gabriel20/MTPYK/51263
+#EXTINF: -1 tvg-name="DEP | Premiere 1 HD BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES", DEP | Premiere 1 HD BRA
+http://home-playtv.com:8080/Gabriel20/MTPYK/56720
+#EXTINF: -1 tvg-name="DEP | Premiere 3  BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES", DEP | Premiere 3  BRA
+http://home-playtv.com:8080/Gabriel20/MTPYK/49111
+#EXTINF: -1 tvg-name="DEP | Premiere 5 HD BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES", DEP | Premiere 5 HD BRA
+http://home-playtv.com:8080/Gabriel20/MTPYK/56716
+#EXTINF: -1 tvg-name="DEP | Premiere 6 BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES", DEP | Premiere 6 BRA
+http://home-playtv.com:8080/Gabriel20/MTPYK/56717
+#EXTINF: -1 tvg-name="DEP | Premiere 7 BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES", DEP | Premiere 7 BRA
+http://home-playtv.com:8080/Gabriel20/MTPYK/56718
+#EXTINF: -1 tvg-id="sky.sports.16.cr" tvg-name="DEP | SKY Sports 16 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", DEP | SKY Sports 16 HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/149063
+#EXTINF: -1 tvg-name="DEP | SKY Sports 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", DEP | SKY Sports 24 HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/149064
+#EXTINF: -1 tvg-name="DEP | TNT Sports AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES", DEP | TNT Sports AR
+http://home-playtv.com:8080/Gabriel20/MTPYK/211363
+#EXTINF: -1 tvg-id="tnt.sports.ar" tvg-name="DEP | TNT Sports ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES", DEP | TNT Sports ARG
+http://home-playtv.com:8080/Gabriel20/MTPYK/36424
+#EXTINF: -1 tvg-id="tnt.sports.ar" tvg-name="DEP | TNT Sports 3 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES", DEP | TNT Sports 3 HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/19638
+#EXTINF: -1 tvg-id="tyc.sports.co" tvg-name="DEP | TYC Sports Internacional HD" tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png" group-title="DEPORTES", DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/188939
+#EXTINF: -1 tvg-id="vtv.ar" tvg-name="DEP | VTV Plus URU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/768px-VTV%2BUruguay.svg.png" group-title="DEPORTES", DEP | VTV Plus URU HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/186609
+#EXTINF: -1 tvg-name="DEP | ESPN Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES", DEP | ESPN Premium FHD
+http://home-playtv.com:8080/Gabriel20/MTPYK/276163
+#EXTINF: -1 tvg-name="DEP | FOX Sports 1 HD COL" tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES", DEP | FOX Sports 1 HD COL
+http://home-playtv.com:8080/Gabriel20/MTPYK/518960
+#EXTINF: -1 tvg-name="DEP | ESPN 3 AR " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES", DEP | ESPN 3 AR
+http://home-playtv.com:8080/Gabriel20/MTPYK/518963
+#EXTINF: -1 tvg-name="DEP | ESPN 2 MX" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 MX
+http://home-playtv.com:8080/Gabriel20/MTPYK/518965
+#EXTINF: -1 tvg-name="DEP | ESPN 2  PERU HD ►℗" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2  PERU HD ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/518967
+#EXTINF: -1 tvg-id="fox.sports.premium.ar" tvg-name="DEP | FOX Sports Premium" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234" group-title="DEPORTES", DEP | FOX Sports Premium
+http://home-playtv.com:8080/Gabriel20/MTPYK/158454
+#EXTINF: -1 tvg-id="tyc.sports.ar" tvg-name="DEP | TVC Deportes HD" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES", DEP | TVC Deportes HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/36406
+#EXTINF: -1 tvg-id="espn.extra.co" tvg-name="DEP | ESPN Extra HD MX @" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES", DEP | ESPN Extra HD MX @
+http://home-playtv.com:8080/Gabriel20/MTPYK/19485
+#EXTINF: -1 tvg-name="DEP | ESPN 2 AR SD  ►℗" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 AR SD  ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/518964
+#EXTINF: -1 tvg-id="espn.3.mexico.mx" tvg-name="DEP | ESPN 3 FHD NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES", DEP | ESPN 3 FHD NORTE
+http://home-playtv.com:8080/Gabriel20/MTPYK/40735
+#EXTINF: -1 tvg-id="espn.2.mx" tvg-name="DEP | ESPN 2 FHD NORTE" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 FHD NORTE
+http://home-playtv.com:8080/Gabriel20/MTPYK/185149
+#EXTINF: -1 tvg-name="DEP | ESPN 1 FHD NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 FHD NORTE
+http://home-playtv.com:8080/Gabriel20/MTPYK/272499
+#EXTINF: -1 tvg-id="fox.sports.2.mexico.mx" tvg-name="DEP | FOX Sports 2 FHD NORTE" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES", DEP | FOX Sports 2 FHD NORTE
+http://home-playtv.com:8080/Gabriel20/MTPYK/186573
+#EXTINF: -1 tvg-id="fox.sports.2.ar" tvg-name="DEP | FOX Sports 2 SUR FHD ►℗" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES", DEP | FOX Sports 2 SUR FHD ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/186606
+#EXTINF: -1 tvg-id="fox.sports.3.mx" tvg-name="DEP | FOX Sports 3 FHD NORTE" tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES", DEP | FOX Sports 3 FHD NORTE
+http://home-playtv.com:8080/Gabriel20/MTPYK/93563
+#EXTINF: -1 tvg-id="fox.sports.3.co" tvg-name="DEP | FOX Sports 3 SUR FHD" tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES", DEP | FOX Sports 3 SUR FHD
+http://home-playtv.com:8080/Gabriel20/MTPYK/36389
+#EXTINF: -1 tvg-id="espn.4.latin.america.mx" tvg-name="DEP | ESPN 4 FHD NORTE" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="DEPORTES", DEP | ESPN 4 FHD NORTE
+http://home-playtv.com:8080/Gabriel20/MTPYK/224430
+#EXTINF: -1 tvg-id="fox.sports.cono.sur.ar" tvg-name="DEP | FOX Sports 1 SUR  FHD" tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES", DEP | FOX Sports 1 SUR  FHD
+http://home-playtv.com:8080/Gabriel20/MTPYK/36387
+#EXTINF: -1 tvg-id="tyc.sports.ar" tvg-name="DEP | TyC Sport  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES", DEP | TyC Sport  FHD
+http://home-playtv.com:8080/Gabriel20/MTPYK/19461
+#EXTINF: -1 tvg-id="fox.sports.2.ar" tvg-name="DEP | FOX Sports 2 SD SUR" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES", DEP | FOX Sports 2 SD SUR
+http://home-playtv.com:8080/Gabriel20/MTPYK/185155
+#EXTINF: -1 tvg-id="tyc.sports.ar" tvg-name="DEP | TyC Sport SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES", DEP | TyC Sport SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/21222
+#EXTINF: -1 tvg-name="DEP | FOX Sports 1 SUR SD" tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES", DEP | FOX Sports 1 SUR SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/518961
+#EXTINF: -1 tvg-name="DEP | ESPN 3 FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES", DEP | ESPN 3 FHD SUR
+http://home-playtv.com:8080/Gabriel20/MTPYK/518962
+#EXTINF: -1 tvg-name="Jūjutsu*25sc**156pelis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3RYlyVA3WNFK1NLPVQeowO6E4x.jpg" group-title="DEPORTES", Jūjutsu*25sc**156pelis
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/414914.mkv
+#EXTINF: -1 tvg-id="espndeportes.us" tvg-name="DEP | ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES", DEP | ESPN Deportes HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/54533
+#EXTINF: -1 tvg-name="DEP | TNT Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES", DEP | TNT Sports FHD
+http://home-playtv.com:8080/Gabriel20/MTPYK/224369
+#EXTINF: -1 tvg-id="bein.sports.es" tvg-name="DEP | Bein Sports XTRA Ñ" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c38d9be96454421548539/900" group-title="DEPORTES", DEP | Bein Sports XTRA Ñ
+http://home-playtv.com:8080/Gabriel20/MTPYK/259731
+#EXTINF: -1 tvg-id="fox.sports.mexico.mx" tvg-name="DEP | FOX Sports 1 HD MEX" tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES", DEP | FOX Sports 1 HD MEX
+http://home-playtv.com:8080/Gabriel20/MTPYK/198785
+#EXTINF: -1 tvg-name="DEP | ESPN 1  SUR... FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1  SUR... FHD
+http://home-playtv.com:8080/Gabriel20/MTPYK/439752
+#EXTINF: -1 tvg-name="DEP | ESPN 1  SUR FHD.." tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1  SUR FHD..
+http://home-playtv.com:8080/Gabriel20/MTPYK/439753
+#EXTINF: -1 tvg-name="DEP | ESPN 1  AR FHD." tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1  AR FHD.
+http://home-playtv.com:8080/Gabriel20/MTPYK/439754
+#EXTINF: -1 tvg-name="DEP | ESPN Extra ARG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES", DEP | ESPN Extra ARG FHD
+http://home-playtv.com:8080/Gabriel20/MTPYK/439755
+#EXTINF: -1 tvg-name="DEP | ESPN 2 FHD SUR" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 FHD SUR
+http://home-playtv.com:8080/Gabriel20/MTPYK/439757
+#EXTINF: -1 tvg-name="DEP | ESPN 4 SD SUR" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="DEPORTES", DEP | ESPN 4 SD SUR
+http://home-playtv.com:8080/Gabriel20/MTPYK/439770
+#EXTINF: -1 tvg-name="DEP | ESPN 3 SD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES", DEP | ESPN 3 SD SUR
+http://home-playtv.com:8080/Gabriel20/MTPYK/439771
+#EXTINF: -1 tvg-name="DEP | ESPN 2 SD SUR ." tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 SD SUR .
+http://home-playtv.com:8080/Gabriel20/MTPYK/439772
+#EXTINF: -1 tvg-name="DEP | ESPN 1 SD COL" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 SD COL
+http://home-playtv.com:8080/Gabriel20/MTPYK/439774
+#EXTINF: -1 tvg-name="DEP | ESPN 1 SD CH" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 SD CH
+http://home-playtv.com:8080/Gabriel20/MTPYK/439775
+#EXTINF: -1 tvg-name="DEP | ESPN 4 SD" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="DEPORTES", DEP | ESPN 4 SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/439801
+#EXTINF: -1 tvg-name="DEP | ESPN 2 SD" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/439802
+#EXTINF: -1 tvg-name="DEP | FOX Sports 2 SD" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES", DEP | FOX Sports 2 SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/439803
+#EXTINF: -1 tvg-name="DEP | ESPN Extra HD SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES", DEP | ESPN Extra HD SUR
+http://home-playtv.com:8080/Gabriel20/MTPYK/454717
+#EXTINF: -1 tvg-id="fox.sports.mexico.mx" tvg-name="DEP | FOX Sports 1 MEX " tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES", DEP | FOX Sports 1 MEX
+http://home-playtv.com:8080/Gabriel20/MTPYK/19632
+#EXTINF: -1 tvg-name="DEP | TYC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES", DEP | TYC Sports HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/454718
+#EXTINF: -1 tvg-name="DEP | ESPN 1 ARG HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 ARG HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/454719
+#EXTINF: -1 tvg-name="DEP | ESPN 2 BR" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 BR
+http://home-playtv.com:8080/Gabriel20/MTPYK/456549
+#EXTINF: -1 tvg-name="DEP | Premiere 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES", DEP | Premiere 2
+http://home-playtv.com:8080/Gabriel20/MTPYK/456656
+#EXTINF: -1 tvg-name="DEP | Premiere Clubes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES", DEP | Premiere Clubes HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/456657
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports 2 FHD ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports 2 FHD ⭐️
+http://home-playtv.com:8080/Gabriel20/MTPYK/456658
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports SD ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports SD ⭐️
+http://home-playtv.com:8080/Gabriel20/MTPYK/456659
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports HD COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports HD COL
+http://home-playtv.com:8080/Gabriel20/MTPYK/456660
+#EXTINF: -1 tvg-name="DEP | Canal Claro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png" group-title="DEPORTES", DEP | Canal Claro HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/469051
+#EXTINF: -1 tvg-name="DEP | Claro Sports 1 HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES", DEP | Claro Sports 1 HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/469052
+#EXTINF: -1 tvg-name="DEP | Claro Sports 2 HD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1672073379338-Claro_sports_2.webp" group-title="DEPORTES", DEP | Claro Sports 2 HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/469053
+#EXTINF: -1 tvg-name="DEP | ESPN 2 SD SUR" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 SD SUR
+http://home-playtv.com:8080/Gabriel20/MTPYK/518966
+#EXTINF: -1 tvg-name="DEP | ESPN 2 FHD SUR ." tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES", DEP | ESPN 2 FHD SUR .
+http://home-playtv.com:8080/Gabriel20/MTPYK/518968
+#EXTINF: -1 tvg-name="DEP | ESPN 1 HD COL" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES", DEP | ESPN 1 HD COL
+http://home-playtv.com:8080/Gabriel20/MTPYK/519821
+#EXTINF: -1 tvg-id="fox.sports.mx" tvg-name="DEP | FOX Sports 1  AR" tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES", DEP | FOX Sports 1  AR
+http://home-playtv.com:8080/Gabriel20/MTPYK/158518
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports HD ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports HD ARG
+http://home-playtv.com:8080/Gabriel20/MTPYK/310509
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports 1 SD ECU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports 1 SD ECU
+http://home-playtv.com:8080/Gabriel20/MTPYK/310516
+#EXTINF: -1 tvg-name="DEP | Real Madrid TV HD" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/131/RealMadridTV.png" group-title="DEPORTES", DEP | Real Madrid TV HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/310523
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports HD ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports HD ARG
+http://home-playtv.com:8080/Gabriel20/MTPYK/310533
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports + SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports + SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/310535
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports HD ECU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports HD ECU
+http://home-playtv.com:8080/Gabriel20/MTPYK/310536
+#EXTINF: -1 tvg-name="DEP | DirecTV Sports + HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DEP | DirecTV Sports + HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/518959
+#EXTINF: -1 tvg-id="tu.deportes.network.u.s.mx" tvg-name="DEP | TUDN HD USA  ►℗" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN", DEP | TUDN HD USA  ►℗
+http://home-playtv.com:8080/Gabriel20/MTPYK/185148
+#EXTINF: -1 tvg-id="tu.deportes.network.mexico.cr" tvg-name="DEP | TUDN USA FHD" tvg-logo="http://51.222.43.170:36995/images/06c9460347bd5f1229d48626ba513feb.png" group-title="TUDN", DEP | TUDN USA FHD
+http://home-playtv.com:8080/Gabriel20/MTPYK/242045
+#EXTINF: -1 tvg-id="tudnu.us" tvg-name="DEP | TUDN USA" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="TUDN", DEP | TUDN USA
+http://home-playtv.com:8080/Gabriel20/MTPYK/166029
+#EXTINF: -1 tvg-name="USA | TUDN mexico SD" tvg-logo="http://svtv.xyz:8000/images/996f778d08234b3fb00ad0f9fcf6115b.png" group-title="TUDN", USA | TUDN mexico SD
+http://home-playtv.com:8080/Gabriel20/MTPYK/218637
+#EXTINF: -1 tvg-name="TUDNxtra 1 " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png" group-title="TUDN", TUDNxtra 1
+http://home-playtv.com:8080/Gabriel20/MTPYK/10212
+#EXTINF: -1 tvg-name="TUDNxtra 10(G)" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra10n_c.png" group-title="TUDN", TUDNxtra 10(G)
+http://home-playtv.com:8080/Gabriel20/MTPYK/10213
+#EXTINF: -1 tvg-name="TUDNxtra 11 (G)" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra11n_c.png" group-title="TUDN", TUDNxtra 11 (G)
+http://home-playtv.com:8080/Gabriel20/MTPYK/10214
+#EXTINF: -1 tvg-name="TUDNxtra 2" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra2n_c.png" group-title="TUDN", TUDNxtra 2
+http://home-playtv.com:8080/Gabriel20/MTPYK/10215
+#EXTINF: -1 tvg-name="TUDNxtra 3" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra3n_c.png" group-title="TUDN", TUDNxtra 3
+http://home-playtv.com:8080/Gabriel20/MTPYK/10216
+#EXTINF: -1 tvg-name="TUDNxtra 4 " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra4n_c.png" group-title="TUDN", TUDNxtra 4
+http://home-playtv.com:8080/Gabriel20/MTPYK/10217
+#EXTINF: -1 tvg-name="TUDNxtra 5 " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra5n_c.png" group-title="TUDN", TUDNxtra 5
+http://home-playtv.com:8080/Gabriel20/MTPYK/10218
+#EXTINF: -1 tvg-name="TUDNxtra 6 " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra6_c.png" group-title="TUDN", TUDNxtra 6
+http://home-playtv.com:8080/Gabriel20/MTPYK/10219
+#EXTINF: -1 tvg-name="TUDNxtra 7 " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra7n_c.png" group-title="TUDN", TUDNxtra 7
+http://home-playtv.com:8080/Gabriel20/MTPYK/10220
+#EXTINF: -1 tvg-name="TUDNxtra 8 " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra8n_c.png" group-title="TUDN", TUDNxtra 8
+http://home-playtv.com:8080/Gabriel20/MTPYK/10221
+#EXTINF: -1 tvg-name="TUDNxtra 9 " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra9n_c.png" group-title="TUDN", TUDNxtra 9
+http://home-playtv.com:8080/Gabriel20/MTPYK/10222
+#EXTINF: -1 tvg-name="Zona Tudn" tvg-logo="https://i.picasion.com/pic92/262ff4afeb4bfa5584905a6e5f2d5533.gif" group-title="TUDN", Zona Tudn
+http://home-playtv.com:8080/Gabriel20/MTPYK/456662
+#EXTINF: -1 tvg-name="TUDN MX  HD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="TUDN", TUDN MX  HD
+http://home-playtv.com:8080/Gabriel20/MTPYK/456663
+#EXTINF: -1 tvg-name="DP| Zona TUDN USA" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="TUDN", DP| Zona TUDN USA
+http://home-playtv.com:8080/Gabriel20/MTPYK/456664
