@@ -1,11 +1,499 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Anime
-https://r.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Animé Acción
-https://r.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Naruto
-https://r.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Naruto Shippuden
-https://r.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="Pluto tv infantil" ,  Boruto: Naruto Next Generations
-https://r.mjh.nz/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
+#EXTINF: -1 tvg-name="Criptoestafas (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="ESTRENOS 2024", Criptoestafas (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/523059.mkv
+#EXTINF: -1 tvg-name="La sociedad de la nieve (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beCxZp3SDyEsAhPvmF4RMF5ks2o.jpg" group-title="ESTRENOS 2024", La sociedad de la nieve (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/523300.mkv
+#EXTINF: -1 tvg-name="Lift: Un robo de primera clase (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg" group-title="ESTRENOS 2024", Lift: Un robo de primera clase (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/523982.mkv
+#EXTINF: -1 tvg-name="Peligrosos juegos de familia (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lyP2YP6C2uB8ZrdhLJQxeNfuxM.jpg" group-title="ESTRENOS 2024", Peligrosos juegos de familia (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529090.mkv
+#EXTINF: -1 tvg-name="Después de Clase (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzLHOTZoMk8Xy2y1CJzJPFoRjdA.jpg" group-title="ESTRENOS 2024", Después de Clase (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529093.mkv
+#EXTINF: -1 tvg-name="El color púrpura (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg" group-title="ESTRENOS 2024", El color púrpura (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529095.mkv
+#EXTINF: -1 tvg-name="El inicio del mundo de Craig (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bF2MyJ3Uap5112jOROdqVey8r3.jpg" group-title="ESTRENOS 2024", El inicio del mundo de Craig (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529096.mkv
+#EXTINF: -1 tvg-name="El Robo de Nuestras Vidas (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twCRtEH2nBnbRlbz3OhbHxIrvfH.jpg" group-title="ESTRENOS 2024", El Robo de Nuestras Vidas (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529097.mkv
+#EXTINF: -1 tvg-name="Experimento Asesino (2021) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqazMSkIykqtAP3hHZNwPJOmO2u.jpg" group-title="ESTRENOS 2024", Experimento Asesino (2021) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529098.mkv
+#EXTINF: -1 tvg-name="Gol gana (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAFNxs9nkgoW20QNlBqY2hlRmWQ.jpg" group-title="ESTRENOS 2024", Gol gana (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529100.mkv
+#EXTINF: -1 tvg-name="La generación cápsula (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSPslo4NSYKFRaymnCNvqSxXZZn.jpg" group-title="ESTRENOS 2024", La generación cápsula (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529104.mkv
+#EXTINF: -1 tvg-name="Lucha por sobrevivir (2021) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEBPDMzln2LdxpAvA2OcmRUrAI0.jpg" group-title="ESTRENOS 2024", Lucha por sobrevivir (2021) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529106.mkv
+#EXTINF: -1 tvg-name="Otra bala más (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg" group-title="ESTRENOS 2024", Otra bala más (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529113.mkv
+#EXTINF: -1 tvg-name="Remando Como Un Solo Hombre (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2by4DHPmfaTqJ9YJZJK5tPxHpuk.jpg" group-title="ESTRENOS 2024", Remando Como Un Solo Hombre (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529114.mkv
+#EXTINF: -1 tvg-name="60 minutos (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg" group-title="ESTRENOS 2024", 60 minutos (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529305.mkv
+#EXTINF: -1 tvg-name="How Bugs Bunny Won the West (1978) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8P3pQmUv80U7xXBWZZzkV0SjT7X.jpg" group-title="ESTRENOS 2024", How Bugs Bunny Won the West (1978) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529306.mkv
+#EXTINF: -1 tvg-name="Camino a Belén (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBNm7WgAYeGLSrQz1PoNB94CS1Q.jpg" group-title="ESTRENOS 2024", Camino a Belén (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529307.mkv
+#EXTINF: -1 tvg-name="El Yuppie Y El Guiso (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LjJZ3jL04uEl7itSxxUfxHQ6V3.jpg" group-title="ESTRENOS 2024", El Yuppie Y El Guiso (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529311.mkv
+#EXTINF: -1 tvg-name="Mi soledad tiene alas (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zj7UYU6PZQtWh4sznRH1LKJp945.jpg" group-title="ESTRENOS 2024", Mi soledad tiene alas (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529314.mkv
+#EXTINF: -1 tvg-name="La Cocina (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEHpKFCLWvVTIUM8gr4m7cfj8Bf.jpg" group-title="ESTRENOS 2024", La Cocina (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529315.mkv
+#EXTINF: -1 tvg-name="The Marvels (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" group-title="ESTRENOS 2024", The Marvels (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529316.mkv
+#EXTINF: -1 tvg-name="Wonka (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFyQa5WQqldIL44HBLaCmn5eERD.jpg" group-title="ESTRENOS 2024", Wonka (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529317.mkv
+#EXTINF: -1 tvg-name="El paseo 7 (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNwnbE5ozWaFaFiPRel5KeRQe44.jpg" group-title="ESTRENOS 2024", El paseo 7 (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529318.mkv
+#EXTINF: -1 tvg-name="Monsters: El infierno del dragón (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Isg2ASUQXzFwLBTFnItfkOlqo9.jpg" group-title="ESTRENOS 2024", Monsters: El infierno del dragón (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529460.mkv
+#EXTINF: -1 tvg-name="Aguas siniestras (2024)*dos19*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg" group-title="ESTRENOS 2024", Aguas siniestras (2024)*dos19*
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529461.mkv
+#EXTINF: -1 tvg-name="¡Patos! (2023)*dos19*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2y9b57WxrbPATlyeOr7BesmUem.jpg" group-title="ESTRENOS 2024", ¡Patos! (2023)*dos19*
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529463.mkv
+#EXTINF: -1 tvg-name="Wish: El poder de los deseos (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmStWmjibcUSz9dzbW1Yxoykxaj.jpg" group-title="ESTRENOS 2024", Wish: El poder de los deseos (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529464.mkv
+#EXTINF: -1 tvg-name="Aquaman y el reino perdido (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9Hv3b37ZErby79f4iqTZ8doaTp.jpg" group-title="ESTRENOS 2024", Aquaman y el reino perdido (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529465.mkv
+#EXTINF: -1 tvg-name="Juega o Muere (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2jR7w3fzoPkYjVF1hkFUC2SUk8.jpg" group-title="ESTRENOS 2024", Juega o Muere (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529498.mkv
+#EXTINF: -1 tvg-name="Napoleón (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg" group-title="ESTRENOS 2024", Napoleón (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529499.mkv
+#EXTINF: -1 tvg-name="Hotel Royal (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8virkZ5h259jyxTHUL3yelKyGN.jpg" group-title="ESTRENOS 2024", Hotel Royal (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529838.mkv
+#EXTINF: -1 tvg-name="Monsters: El infierno del dragón (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Isg2ASUQXzFwLBTFnItfkOlqo9.jpg" group-title="ESTRENOS 2024", Monsters: El infierno del dragón (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529840.mkv
+#EXTINF: -1 tvg-name="Radical (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyUfBeZ0XpHPouwGt53oq7Oaqr0.jpg" group-title="ESTRENOS 2024", Radical (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529841.mkv
+#EXTINF: -1 tvg-name="Señora Influencer (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgEXNBnFsq8oTck1C2giSvnTjzz.jpg" group-title="ESTRENOS 2024", Señora Influencer (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529842.mkv
+#EXTINF: -1 tvg-name="Trolls 3: Se armó la banda (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg" group-title="ESTRENOS 2024", Trolls 3: Se armó la banda (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529845.mkv
+#EXTINF: -1 tvg-name="Venganza Silenciosa (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e68RMVPRod1k4x4j3nBYwQrfGBK.jpg" group-title="ESTRENOS 2024", Venganza Silenciosa (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529846.mkv
+#EXTINF: -1 tvg-name="Cazadores en tierra inhospita (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyM1tesNMM7fg6zmozn8MYD036G.jpg" group-title="ESTRENOS 2024", Cazadores en tierra inhospita (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/529837.mkv
+#EXTINF: -1 tvg-name="El camino de Hill (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH9uccy5TW7xqhBQbfGjW5M3Mxt.jpg" group-title="ESTRENOS 2024", El camino de Hill (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530381.mkv
+#EXTINF: -1 tvg-name="La Guerra de los Dioses (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b2lTzDR1lNNTl8F4gMiqazSvbn.jpg" group-title="ESTRENOS 2024", La Guerra de los Dioses (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530382.mkv
+#EXTINF: -1 tvg-name="Los menospreciados (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg" group-title="ESTRENOS 2024", Los menospreciados (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530384.mkv
+#EXTINF: -1 tvg-name="Piedras en el camino (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zd8CabQsVmLf1QdVDdpfTrZMqZt.jpg" group-title="ESTRENOS 2024", Piedras en el camino (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530385.mkv
+#EXTINF: -1 tvg-name="Will (2023) *222n" tvg-logo="https://pics.filmaffinity.com/wil-451460379-large.jpg" group-title="ESTRENOS 2024", Will (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530388.mkv
+#EXTINF: -1 tvg-name="Batman: La Perdición que llegó a Ciudad Gótica (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4hM4lsBqBYh0ZkzyNeEqu9RUlP.jpg" group-title="ESTRENOS 2024", Batman: La Perdición que llegó a Ciudad Gótica (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530476.mkv
+#EXTINF: -1 tvg-name="Bosco (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZMkfWufAMwAU9SfCCiWqlgIkaN.jpg" group-title="ESTRENOS 2024", Bosco (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530477.mkv
+#EXTINF: -1 tvg-name="Cómo Encontrar a Alguien Que Sea para Siempre (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kURQkj2vKrQ2SOg4ldySYdMM1DU.jpg" group-title="ESTRENOS 2024", Cómo Encontrar a Alguien Que Sea para Siempre (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530479.mkv
+#EXTINF: -1 tvg-name="De Italia con amor (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cHctGuCwuloaW4KRpZIpKPmsEC.jpg" group-title="ESTRENOS 2024", De Italia con amor (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530480.mkv
+#EXTINF: -1 tvg-name="El Guardián del Hermano *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dShuEdbogwLtHG7S4B80H8Wz7wE.jpg" group-title="ESTRENOS 2024", El Guardián del Hermano *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530481.mkv
+#EXTINF: -1 tvg-name="El poder de los centavos (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BvSb6gi8AjaBXt4v0302lFkVCU.jpg" group-title="ESTRENOS 2024", El poder de los centavos (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530482.mkv
+#EXTINF: -1 tvg-name="En La Puntería de Los Asesinos (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A57wg9wBylZSnapg6k7Cvqyi6wF.jpg" group-title="ESTRENOS 2024", En La Puntería de Los Asesinos (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530483.mkv
+#EXTINF: -1 tvg-name="La Maldición del Queen Mary (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BccI1roRYZCXbMjIwLtyq0XKzz.jpg" group-title="ESTRENOS 2024", La Maldición del Queen Mary (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530484.mkv
+#EXTINF: -1 tvg-name="La Melodia del Amor (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMSYjuvhcFJgR0FOePLXQKiks6a.jpg" group-title="ESTRENOS 2024", La Melodia del Amor (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530485.mkv
+#EXTINF: -1 tvg-name="La Regla del Matrimonio  (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOAWUm13MfOJjkgz21rdfkItN5l.jpg" group-title="ESTRENOS 2024", La Regla del Matrimonio  (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530486.mkv
+#EXTINF: -1 tvg-name="Orion y la oscuridad (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg" group-title="ESTRENOS 2024", Orion y la oscuridad (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530487.mkv
+#EXTINF: -1 tvg-name="Beekeeper: Sentencia de Muerte (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg" group-title="ESTRENOS 2024", Beekeeper: Sentencia de Muerte (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/530488.mkv
+#EXTINF: -1 tvg-name="Nyad (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fm1UBC4HGA3INXZvdkBSIUH6T6L.jpg" group-title="ESTRENOS 2024", Nyad (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531128.mkv
+#EXTINF: -1 tvg-name="La Gran Noche Del Pop (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg" group-title="ESTRENOS 2024", La Gran Noche Del Pop (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531365.mkv
+#EXTINF: -1 tvg-name="Secretos Familiares (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUSnJIhAqsEbtwBJLqPyZZjSEM9.jpg" group-title="ESTRENOS 2024", Secretos Familiares (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531364.mkv
+#EXTINF: -1 tvg-name="American Fiction (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tehU3D5a9qSEnrGYDyIpFlZKJgw.jpg" group-title="ESTRENOS 2024", American Fiction (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531361.mkv
+#EXTINF: -1 tvg-name="El aprendiz del tigre (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AgafVcJ03sbxpOebGDGwsZWT9R.jpg" group-title="ESTRENOS 2024", El aprendiz del tigre (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531360.mkv
+#EXTINF: -1 tvg-name="Campamento de verano (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvjmmFEZnnSKZapCyTKnQxK3hW8.jpg" group-title="ESTRENOS 2024", Campamento de verano (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531465.mkv
+#EXTINF: -1 tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg" group-title="ESTRENOS 2024", Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531466.mkv
+#EXTINF: -1 tvg-name="Nefarious: La Palabra Del Diablo (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LY3P2mW82mq9qP0r3ltvhLgRkA.jpg" group-title="ESTRENOS 2024", Nefarious: La Palabra Del Diablo (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531569.mkv
+#EXTINF: -1 tvg-name="Seducidos por el Deseo (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQMchOSaZim2O3lWHWxfr709emD.jpg" group-title="ESTRENOS 2024", Seducidos por el Deseo (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531570.mkv
+#EXTINF: -1 tvg-name="Una noche con Adele (2021) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FzNIVBgRABFStz8Ki30FD8VKeM.jpg" group-title="ESTRENOS 2024", Una noche con Adele (2021) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531571.mkv
+#EXTINF: -1 tvg-name="Ascenso (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlrmLtl8MiQ2b1oMu9AL8ME9Alv.jpg" group-title="ESTRENOS 2024", Ascenso (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531760.mkv
+#EXTINF: -1 tvg-name="Lo que ignoramos (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eCELoyf0l3njFKfn3oddo3JaRG.jpg" group-title="ESTRENOS 2024", Lo que ignoramos (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531761.mkv
+#EXTINF: -1 tvg-name="Recursos Humanos (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgQcnxTiM1m9TrEZ4yhDAaJZKUD.jpg" group-title="ESTRENOS 2024", Recursos Humanos (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531762.mkv
+#EXTINF: -1 tvg-name="Space Oddity (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/612ajBEu9bUEF3jic7r0PnjG5vP.jpg" group-title="ESTRENOS 2024", Space Oddity (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531885.mkv
+#EXTINF: -1 tvg-name="Lover, Stalker, Killer (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5uojWzwJTCHBIV3rmGPTmQG7TF.jpg" group-title="ESTRENOS 2024", Killer (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531968.mkv
+#EXTINF: -1 tvg-name="Five Blind Dates (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msTE1EAg8COupvuupSoB0IXYx4J.jpg" group-title="ESTRENOS 2024", Five Blind Dates (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531967.mkv
+#EXTINF: -1 tvg-name="Lo que ignoramos (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHKlvMp99WCW0WzTmeUtXeagufn.jpg" group-title="ESTRENOS 2024", Lo que ignoramos (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/531966.mkv
+#EXTINF: -1 tvg-name="Viviendo mi película (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x57IrM7mxk8iAmvDYWUqhZCkEFm.jpg" group-title="ESTRENOS 2024", Viviendo mi película (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532140.mkv
+#EXTINF: -1 tvg-name="Los juegos del amor (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdD4rdpjtxtb3WPS7ig6vetphu3.jpg" group-title="ESTRENOS 2024", Los juegos del amor (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532139.mkv
+#EXTINF: -1 tvg-name="Garra de Hierro (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ8j1LnAPxIwsGEN7oC7gOHUQK1.jpg" group-title="ESTRENOS 2024", Garra de Hierro (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532138.mkv
+#EXTINF: -1 tvg-name="Ceniza (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5sGbDnnaq6yEFaf4SPboB15uG7.jpg" group-title="ESTRENOS 2024", Ceniza (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532203.mkv
+#EXTINF: -1 tvg-name="La cima (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzHBLdSrmvTNYsUJOP4O9A2c69U.jpg" group-title="ESTRENOS 2024", La cima (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532204.mkv
+#EXTINF: -1 tvg-name="Trafficking (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Dz3H25Th3DrhsQFpXkaupm94qK.jpg" group-title="ESTRENOS 2024", Trafficking (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532205.mkv
+#EXTINF: -1 tvg-name="Captain Miller (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blpuCOI2Qz5pmA2yTMJiQ9tEmFb.jpg" group-title="ESTRENOS 2024", Captain Miller (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532264.mkv
+#EXTINF: -1 tvg-name="Naturaleza Humana (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y5RCU7dMCXqDc1f3oNwmSpe6MQ.jpg" group-title="ESTRENOS 2024", Naturaleza Humana (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532265.mkv
+#EXTINF: -1 tvg-name="The Unbreakable Tatiana Suarez (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24iOlmQYV5aUgzLARyzSQN3T6qH.jpg" group-title="ESTRENOS 2024", The Unbreakable Tatiana Suarez (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532267.mkv
+#EXTINF: -1 tvg-name="Snoopy presenta: Bienvenido a casa, Franklin (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxK1ibWJ38P19cYwavpRmWxCMf4.jpg" group-title="ESTRENOS 2024", Franklin (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532266.mkv
+#EXTINF: -1 tvg-name="This Is Me…Now (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEMSjYpT0B7uxNwu1kEU8fTycs4.jpg" group-title="ESTRENOS 2024", This Is Me…Now (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532268.mkv
+#EXTINF: -1 tvg-name="Combate clandestino (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg" group-title="ESTRENOS 2024", Combate clandestino (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532432.mkv
+#EXTINF: -1 tvg-name="Muchachos, la película de la gente (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg" group-title="ESTRENOS 2024", la película de la gente (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532433.mkv
+#EXTINF: -1 tvg-name="Papá o Mamá (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJOPu19216Rcpf3E0xjR9FWWu9K.jpg" group-title="ESTRENOS 2024", Papá o Mamá (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532434.mkv
+#EXTINF: -1 tvg-name="Chicas pesadas (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OcZPwR89CM8ay8asq3J4XFeKII.jpg" group-title="ESTRENOS 2024", Chicas pesadas (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532470.mkv
+#EXTINF: -1 tvg-name="Entergalactic (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfXbwPWwlmMhC45asWxCWq3Utwa.jpg" group-title="ESTRENOS 2024", Entergalactic (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532471.mkv
+#EXTINF: -1 tvg-name="The Inventor (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCXbP0vg7tScOjhdLWgK1m0RdKF.jpg" group-title="ESTRENOS 2024", The Inventor (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532472.mkv
+#EXTINF: -1 tvg-name="Give Them Wings (2021) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAZAFqjMGKMQxhfSXBd4PRqFwfS.jpg" group-title="ESTRENOS 2024", Give Them Wings (2021) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532539.mkv
+#EXTINF: -1 tvg-name="Amor de madre (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJnldu7WjrGdZnFZMacaoguKX48.jpg" group-title="ESTRENOS 2024", Amor de madre (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532540.mkv
+#EXTINF: -1 tvg-name="Ageless Love (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9JvmIQzzDOELAASDoDHp8vBcCK.jpg" group-title="ESTRENOS 2024", Ageless Love (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532541.mkv
+#EXTINF: -1 tvg-name="Un hombre sin memoria (2021) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slLEH1tVrU7FUmIjFKdviQY4dFe.jpg" group-title="ESTRENOS 2024", Un hombre sin memoria (2021) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532542.mkv
+#EXTINF: -1 tvg-name="Dogman (2023) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS 2024", Dogman (2023) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532652.mkv
+#EXTINF: -1 tvg-name="La maldición de la bruja (2021) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFR5TrTfhjaKN2z17rP09hoQXXs.jpg" group-title="ESTRENOS 2024", La maldición de la bruja (2021) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532653.mkv
+#EXTINF: -1 tvg-name="Propiedad privada (2022) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8PuDdMqAOcaXGbaQRonev2KVV9.jpg" group-title="ESTRENOS 2024", Propiedad privada (2022) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532654.mkv
+#EXTINF: -1 tvg-name="A traves de tu mirada (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXOr7hwrj3919qPmfHrBkNFNjnP.jpg" group-title="ESTRENOS 2024", A traves de tu mirada (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532729.mkv
+#EXTINF: -1 tvg-name="Mea Culpa (2024) *222n" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="ESTRENOS 2024", Mea Culpa (2024) *222n
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/532730.mkv
+#EXTINF: -1 tvg-name="El juego de la muerte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKNCPbhAQtpZ6K9NiqBJbl2193I.jpg" group-title="ESTRENOS 2024", El juego de la muerte (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533039.mkv
+#EXTINF: -1 tvg-name="Marca de vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyhdm9rMDQbsJx3xuCsCx4FX0UD.jpg" group-title="ESTRENOS 2024", Marca de vida (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533040.mkv
+#EXTINF: -1 tvg-name="Pobres Criaturas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbfzQ7Q7qmDUf50eZH8C57Ygx6n.jpg" group-title="ESTRENOS 2024", Pobres Criaturas (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533041.mkv
+#EXTINF: -1 tvg-name="Priscilla (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i9EgnxyXcD0POswNcirYCSm2iP.jpg" group-title="ESTRENOS 2024", Priscilla (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533042.mkv
+#EXTINF: -1 tvg-name="El abismo de Kiruna (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJBuyNCXqwFME5BV1Dt09Abs1UC.jpg" group-title="ESTRENOS 2024", El abismo de Kiruna (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533043.mkv
+#EXTINF: -1 tvg-name="Un viaje hacia la noche (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLqTzkFnkN1BtzRNUA9BfEUV2qL.jpg" group-title="ESTRENOS 2024", Un viaje hacia la noche (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533184.mkv
+#EXTINF: -1 tvg-name="Human Resources (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ckmwGbblq32xfoS8s35CPtoGgc.jpg" group-title="ESTRENOS 2024", Human Resources (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533183.mkv
+#EXTINF: -1 tvg-name="Death Alley (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIKYK9mdapWlJ21YNRGB57WKErK.jpg" group-title="ESTRENOS 2024", Death Alley (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533182.mkv
+#EXTINF: -1 tvg-name="Código 8: Renegados (Parte II) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWk177HMwUU1dH8kSbxWqxsIdA6.jpg" group-title="ESTRENOS 2024", Código 8: Renegados (Parte II) (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533181.mkv
+#EXTINF: -1 tvg-name="Code 8: renegados (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZxUL08hcs1tzLF7v7SA6enD118.jpg" group-title="ESTRENOS 2024", Code 8: renegados (2019)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533180.mkv
+#EXTINF: -1 tvg-name="El juego del pulpo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGz5rffXhegQH5PGUDiObqoOt06.jpg" group-title="ESTRENOS 2024", El juego del pulpo (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533351.mkv
+#EXTINF: -1 tvg-name="El poder de zeus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qduINBsbtZe6a8eJCj7CoOlqDiS.jpg" group-title="ESTRENOS 2024", El poder de zeus (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533352.mkv
+#EXTINF: -1 tvg-name="Escape Room 2: Reto mortal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEmpLIyeRGR683s31Q9oCwkSoCi.jpg" group-title="ESTRENOS 2024", Escape Room 2: Reto mortal (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533353.mkv
+#EXTINF: -1 tvg-name="57 Segundos Atras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKpXTUo03vyZov4dCFqKx3QHuiA.jpg" group-title="ESTRENOS 2024", 57 Segundos Atras (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533631.mkv
+#EXTINF: -1 tvg-name="Ceniza (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgqpB2f3lAwV5O5Aeudvvv1Nvvy.jpg" group-title="ESTRENOS 2024", Ceniza (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533632.mkv
+#EXTINF: -1 tvg-name="Dora ¡Di Hello a la Aventura! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6G2yD0jIomxAle244xz5PT20rn6.jpg" group-title="ESTRENOS 2024", Dora ¡Di Hello a la Aventura! (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533633.mkv
+#EXTINF: -1 tvg-name="El astronauta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4G7NXuQ0hDCdO6PUQswyU0VDiF.jpg" group-title="ESTRENOS 2024", El astronauta (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533634.mkv
+#EXTINF: -1 tvg-name="Jaque Mate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umRkEsTwKU5nVbLVNw22cYB2fjm.jpg" group-title="ESTRENOS 2024", Jaque Mate (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533636.mkv
+#EXTINF: -1 tvg-name="Los desfiles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdEtrHGY7wuJ9WTnlYkTsnklAdF.jpg" group-title="ESTRENOS 2024", Los desfiles (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533637.mkv
+#EXTINF: -1 tvg-name="Megamente contra el sindicato de Doom (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg" group-title="ESTRENOS 2024", Megamente contra el sindicato de Doom (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533638.mkv
+#EXTINF: -1 tvg-name="Me llamo Loh Ki-wan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxZTNl6uQOnVe3h3xxYI1aVFQwM.jpg" group-title="ESTRENOS 2024", Me llamo Loh Ki-wan (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533639.mkv
+#EXTINF: -1 tvg-name="Perdidos en la noche (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7dQV1OqvNQyrPViUA13DCiieLH.jpg" group-title="ESTRENOS 2024", Perdidos en la noche (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533640.mkv
+#EXTINF: -1 tvg-name="Simon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bY3ojxD1C9VaOVLNh9cATtRIJm.jpg" group-title="ESTRENOS 2024", Simon (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533641.mkv
+#EXTINF: -1 tvg-name="El mal no duerme (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQCDmuAFQYKaOIQCnH4X7NlTzVn.jpg" group-title="ESTRENOS 2024", El mal no duerme (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533642.mkv
+#EXTINF: -1 tvg-name="The Kindred (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99PE8haWB7nLky627wJBsWn2awJ.jpg" group-title="ESTRENOS 2024", The Kindred (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533643.mkv
+#EXTINF: -1 tvg-name="Sri Asih (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMZWF6Bm8MkFHjL9PHgUzHuuYfi.jpg" group-title="ESTRENOS 2024", Sri Asih (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533644.mkv
+#EXTINF: -1 tvg-name="Argylle: Agente secreto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axEripgGIkixtgLXm3jLDNHpJCc.jpg" group-title="ESTRENOS 2024", Argylle: Agente secreto (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533699.mkv
+#EXTINF: -1 tvg-name="Con todos menos contigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg" group-title="ESTRENOS 2024", Con todos menos contigo (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533995.mkv
+#EXTINF: -1 tvg-name="Entrenado para Matar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT49crqAK6qDWfoAERnFxqod1Ha.jpg" group-title="ESTRENOS 2024", Entrenado para Matar (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/533996.mkv
+#EXTINF: -1 tvg-name="Leave (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/908fS4q4oxEot5SgDDcwFnKMNxk.jpg" group-title="ESTRENOS 2024", Leave (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534160.mkv
+#EXTINF: -1 tvg-name="El retorno de Los Thundermans (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QMK14mC1nqDfV7h8rR5xjP3KEe.jpg" group-title="ESTRENOS 2024", El retorno de Los Thundermans (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534161.mkv
+#EXTINF: -1 tvg-name="En busca del barco perdido (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56YAsHyqZKnJAVAlsBb5HvqhxUa.jpg" group-title="ESTRENOS 2024", En busca del barco perdido (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534162.mkv
+#EXTINF: -1 tvg-name="Mejores Amigos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nme0kRiP5jBSKFRLnaLBSn5ny9G.jpg" group-title="ESTRENOS 2024", Mejores Amigos (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534163.mkv
+#EXTINF: -1 tvg-name="Una femmina: codigo de silencio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwE6kAOaCICVCXqvspUuFsjA7xR.jpg" group-title="ESTRENOS 2024", Una femmina: codigo de silencio (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534164.mkv
+#EXTINF: -1 tvg-name="Proyecto fantasma (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFpOGChpmHkdTQ7t5DVgh563l3N.jpg" group-title="ESTRENOS 2024", Proyecto fantasma (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534165.mkv
+#EXTINF: -1 tvg-name="Borderline (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKRGwx3wfgvm2zfRi9EV0vOizWJ.jpg" group-title="ESTRENOS 2024", Borderline (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534166.mkv
+#EXTINF: -1 tvg-name="Ricky Stanicky: El impostor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPglwjyRTbDElyvUVNIz7QdAW75.jpg" group-title="ESTRENOS 2024", Ricky Stanicky: El impostor (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534167.mkv
+#EXTINF: -1 tvg-name="Sira (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8moUYoV9lUMHVdmeqksjVDUphBT.jpg" group-title="ESTRENOS 2024", Sira (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534168.mkv
+#EXTINF: -1 tvg-name="Damsel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg" group-title="ESTRENOS 2024", Damsel (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534293.mkv
+#EXTINF: -1 tvg-name="Under the Boardwalk (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CjHGpYxtE8ZhLnHh6KN9BqzppR.jpg" group-title="ESTRENOS 2024", Under the Boardwalk (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534769.mkv
+#EXTINF: -1 tvg-name="La venganza de Charlie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FdlhzK976qK6tbmVre5eX1CGAt.jpg" group-title="ESTRENOS 2024", La venganza de Charlie (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534770.mkv
+#EXTINF: -1 tvg-name="Pulso" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NiM2M4ZTktZWMzYS00NDRjLTk5NGEtYjFiZjRkY2EyYjY4XkEyXkFqcGdeQXVyMzA0OTQzODE@._V1_.jpg" group-title="ESTRENOS 2024", Pulso
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534771.mkv
+#EXTINF: -1 tvg-name="Sobrevivientes después del terremoto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VIUTiAPyOMq3VBK0DQEQBqlqy8.jpg" group-title="ESTRENOS 2024", Sobrevivientes después del terremoto (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534772.mkv
+#EXTINF: -1 tvg-name="Secretos de un escándalo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seiKfp4tRISTLs06rAryTVBWnH0.jpg" group-title="ESTRENOS 2024", Secretos de un escándalo (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534792.mkv
+#EXTINF: -1 tvg-name="El Hombre De Los Sueños (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS4eutSuSidh8RKaorGfuBsSnZM.jpg" group-title="ESTRENOS 2024", El Hombre De Los Sueños (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534897.mkv
+#EXTINF: -1 tvg-name="A Stalker in the House (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3p4RNksLwGkws3DGWNlClpalSWe.jpg" group-title="ESTRENOS 2024", A Stalker in the House (2021)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534898.mkv
+#EXTINF: -1 tvg-name="Vidas Pasadas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWrJrLMD7SZoxc65KSYej6QOw12.jpg" group-title="ESTRENOS 2024", Vidas Pasadas (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/534899.mkv
+#EXTINF: -1 tvg-name="Imaginario: juguete diabólico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg" group-title="ESTRENOS 2024", Imaginario: juguete diabólico (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535027.mkv
+#EXTINF: -1 tvg-name="Dos chicas a la fuga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJVGU3aNDLdhAy7yYa2G1XtdYOx.jpg" group-title="ESTRENOS 2024", Dos chicas a la fuga (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535026.mkv
+#EXTINF: -1 tvg-name="Ficción Estadounidense (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a219G3YuhGDH3QQzvLWeVSGagWZ.jpg" group-title="ESTRENOS 2024", Ficción Estadounidense (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535162.mkv
+#EXTINF: -1 tvg-name="Anatomía de una Caída (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31MkIlfEaQ5vopz5lulP96xbZyU.jpg" group-title="ESTRENOS 2024", Anatomía de una Caída (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535163.mkv
+#EXTINF: -1 tvg-name="Megalomaniac (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKADO87fy9nYIaq5NiEwYdKMN5S.jpg" group-title="ESTRENOS 2024", Megalomaniac (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535164.mkv
+#EXTINF: -1 tvg-name="Relacion abierta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBuoiVApJphrbfLDGqgbdNhbgia.jpg" group-title="ESTRENOS 2024", Relacion abierta (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535165.mkv
+#EXTINF: -1 tvg-name="The Book of Clarence (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBuoiVApJphrbfLDGqgbdNhbgia.jpg" group-title="ESTRENOS 2024", The Book of Clarence (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535166.mkv
+#EXTINF: -1 tvg-name="Un ladrón romántico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjYb3zdvuedWmTH4tSD9UU3VjkZ.jpg" group-title="ESTRENOS 2024", Un ladrón romántico (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535167.mkv
+#EXTINF: -1 tvg-name="24 horas con Gaspar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xirRuca0WPQ5A7T4vTmsH5ucDiB.jpg" group-title="ESTRENOS 2024", 24 horas con Gaspar (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535311.mkv
+#EXTINF: -1 tvg-name="Madame Web (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8enikn5rdpsVyQd1qnpOqpACZqO.jpg" group-title="ESTRENOS 2024", Madame Web (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535312.mkv
+#EXTINF: -1 tvg-name="Un Deseo Irlandés (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg" group-title="ESTRENOS 2024", Un Deseo Irlandés (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535313.mkv
+#EXTINF: -1 tvg-name="El delator (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3MqxGqMdq4eqzWN6H7ugEdYv1W.jpg" group-title="ESTRENOS 2024", El delator (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535650.mkv
+#EXTINF: -1 tvg-name="Isla bonita (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lraOowe1AQQof3Hr0hNBgbeLwh9.jpg" group-title="ESTRENOS 2024", Isla bonita (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535771.mkv
+#EXTINF: -1 tvg-name="Perro y Gata (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wASttItE7cVqjZGmrnRREay1p2g.jpg" group-title="ESTRENOS 2024", Perro y Gata (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535770.mkv
+#EXTINF: -1 tvg-name="Bob Marley: La leyenda (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg" group-title="ESTRENOS 2024", Bob Marley: La leyenda (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535769.mkv
+#EXTINF: -1 tvg-name="Mercy Falls (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvgsSC4PZvT2JPbhIVCHfewmie8.jpg" group-title="ESTRENOS 2024", Mercy Falls (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535895.mkv
+#EXTINF: -1 tvg-name="Soltera, casada, viuda, divorciada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VIL1A787VntKNXbvsAQYlEnVAq.jpg" group-title="ESTRENOS 2024", divorciada (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535893.mkv
+#EXTINF: -1 tvg-name="Mi Amigo Robot (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg" group-title="ESTRENOS 2024", Mi Amigo Robot (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535892.mkv
+#EXTINF: -1 tvg-name="El Duro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg" group-title="ESTRENOS 2024", El Duro (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535890.mkv
+#EXTINF: -1 tvg-name="Dragones en el aire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg" group-title="ESTRENOS 2024", Dragones en el aire (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535889.mkv
+#EXTINF: -1 tvg-name="Totem (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ll28o9kbyjbhBONkfQwITy7vqJ.jpg" group-title="ESTRENOS 2024", Totem (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535974.mkv
+#EXTINF: -1 tvg-name="Shirley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" group-title="ESTRENOS 2024", Shirley (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535973.mkv
+#EXTINF: -1 tvg-name="Los Casagrande: La película (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg" group-title="ESTRENOS 2024", Los Casagrande: La película (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535972.mkv
+#EXTINF: -1 tvg-name="Diario de mi vagina (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PzGmlaai6mRUslfrdBhfXjfA1J.jpg" group-title="ESTRENOS 2024", Diario de mi vagina (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/535970.mkv
+#EXTINF: -1 tvg-name="Héroe Por Encargo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbOgZFAKSrYfnfMHd4vUq61J0LV.jpg" group-title="ESTRENOS 2024", Héroe Por Encargo (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536135.mkv
+#EXTINF: -1 tvg-name="Nuestro Hijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTOXP2JIGtbh1X64MwHnm30KI6S.jpg" group-title="ESTRENOS 2024", Nuestro Hijo (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536224.mkv
+#EXTINF: -1 tvg-name="Las aventuras de Lady Marian (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPXzCV01ysDmnmpJOkiVqaZQ5QR.jpg" group-title="ESTRENOS 2024", Las aventuras de Lady Marian (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536223.mkv
+#EXTINF: -1 tvg-name="After Death (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jftgQ8mYaPFYf0UywgwgqimAkmu.jpg" group-title="ESTRENOS 2024", After Death (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536221.mkv
+#EXTINF: -1 tvg-name="Araña sagrada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SQ57NYOXH4HHK163fyWVYU7LbK.jpg" group-title="ESTRENOS 2024", Araña sagrada (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536220.mkv
+#EXTINF: -1 tvg-name="Un hipster en la España vacía (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJyqvQ165U1OWDefxXWaIqpFnvu.jpg" group-title="ESTRENOS 2024", Un hipster en la España vacía (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536254.mkv
+#EXTINF: -1 tvg-name="Dobles de accion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arF1VcDtjuK4AV43FSQNKOl0J23.jpg" group-title="ESTRENOS 2024", Dobles de accion (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536251.mkv
+#EXTINF: -1 tvg-name="El juego bonito (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MfqsfCA4Z1ppTAQ2DB9qWlh9VD.jpg" group-title="ESTRENOS 2024", El juego bonito (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536520.mkv
+#EXTINF: -1 tvg-name="El salario del miedo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cKzsWfDtGj5BMHi1dN9EkGz4lJ.jpg" group-title="ESTRENOS 2024", El salario del miedo (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536521.mkv
+#EXTINF: -1 tvg-name="El corazon del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="ESTRENOS 2024", El corazon del cazador (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536522.mkv
+#EXTINF: -1 tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="ESTRENOS 2024", Lisa Frankenstein (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536525.mkv
+#EXTINF: -1 tvg-name="Zona de Interés (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olfQK9vJ0BIOfBuRTTdcn0RLraG.jpg" group-title="ESTRENOS 2024", Zona de Interés (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536789.mkv
+#EXTINF: -1 tvg-name="Los que se quedan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZj21Kcmazecm6VDBn4bYU4evi3.jpg" group-title="ESTRENOS 2024", Los que se quedan (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536788.mkv
+#EXTINF: -1 tvg-name="Imaginario: juguete diabólico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxM0EWBHs5QRkqVCL4bOAaHlQ8e.jpg" group-title="ESTRENOS 2024", Imaginario: juguete diabólico (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536896.mkv
+#EXTINF: -1 tvg-name="Jade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg" group-title="ESTRENOS 2024", Jade (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536897.mkv
+#EXTINF: -1 tvg-name="La Sociedad Americana de Negros Mágicos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czV7JRPPPGk9bqUsnJuJUYn34mM.jpg" group-title="ESTRENOS 2024", La Sociedad Americana de Negros Mágicos (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/536901.mkv
+#EXTINF: -1 tvg-name="El paseo 7 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNwnbE5ozWaFaFiPRel5KeRQe44.jpg" group-title="ESTRENOS 2024", El paseo 7 (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537027.mkv
+#EXTINF: -1 tvg-name="Rodeo Rock (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF6DYBbShJuKbUShdU8UFVquk8i.jpg" group-title="ESTRENOS 2024", Rodeo Rock (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537089.mkv
+#EXTINF: -1 tvg-name="Quiero que me mantengan (2024)" tvg-logo="https://dxtcapital.com/wp-content/uploads/2023/11/quiero-que-me-mantengan-afiche-600x640.png" group-title="ESTRENOS 2024", Quiero que me mantengan (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537088.mkv
+#EXTINF: -1 tvg-name="No mires al Demonio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uzeE5CDkLXgrpUzDG4zGenU6tm.jpg" group-title="ESTRENOS 2024", No mires al Demonio (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537087.mkv
+#EXTINF: -1 tvg-name="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="ESTRENOS 2024", Música (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537086.mkv
+#EXTINF: -1 tvg-name="La Conversación - El Futuro de Una Nación (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA3Yjc5ZWMtZGNkOS00Mjk0LThiNTMtMjEyYzRmZmQxNmNkXkEyXkFqcGdeQXVyNzAzMDgwNjk@._V1_FMjpg_UX1000_.jpg" group-title="ESTRENOS 2024", La Conversación - El Futuro de Una Nación (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537085.mkv
+#EXTINF: -1 tvg-name="Hellblazers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPG32niYPEIiaAXcclEFcHrGGs.jpg" group-title="ESTRENOS 2024", Hellblazers (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537084.mkv
+#EXTINF: -1 tvg-name="Fabricante de lágrimas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5JXwc7EMid334ZyHRcRblOCr9G.jpg" group-title="ESTRENOS 2024", Fabricante de lágrimas (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537083.mkv
+#EXTINF: -1 tvg-name="Cosmic Dawn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuSFeIVBBgCpRI7jTvTiDzETw2J.jpg" group-title="ESTRENOS 2024", Cosmic Dawn (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537082.mkv
+#EXTINF: -1 tvg-name="La gran exclusiva (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg" group-title="ESTRENOS 2024", La gran exclusiva (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537238.mkv
+#EXTINF: -1 tvg-name="How to Date Billy Walsh (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm1oNqOZycJvW1GindPX45nIpuG.jpg" group-title="ESTRENOS 2024", How to Date Billy Walsh (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537237.mkv
+#EXTINF: -1 tvg-name="Confesiones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nO3z0lJVFpVhhbCcY4aHAVQvpFs.jpg" group-title="ESTRENOS 2024", Confesiones (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537236.mkv
+#EXTINF: -1 tvg-name="Agente X: ultima misión (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czBaPIWYuTdPvAh6TNh5bKOG4ty.jpg" group-title="ESTRENOS 2024", Agente X: ultima misión (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537235.mkv
+#EXTINF: -1 tvg-name="WWE WrestleMania XL Sunday (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S6DYUGIOvNjmFAFyuIG5vlMsQC.jpg" group-title="ESTRENOS 2024", WWE WrestleMania XL Sunday (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537562.mkv
+#EXTINF: -1 tvg-name="WWE WrestleMania XL Saturday (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xx0kqs1iMot9Xpz1lBp5ZAAe9M.jpg" group-title="ESTRENOS 2024", WWE WrestleMania XL Saturday (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537561.mkv
+#EXTINF: -1 tvg-name="Cold Meat (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XIIFcDxSk6XqG9Rek6h9q6KU58.jpg" group-title="ESTRENOS 2024", Cold Meat (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537560.mkv
+#EXTINF: -1 tvg-name="Baghead: Contacto Con La Muerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ssaCHmqvTZDVZtcNhNZTzfb7Nj.jpg" group-title="ESTRENOS 2024", Baghead: Contacto Con La Muerte (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537559.mkv
+#EXTINF: -1 tvg-name="Rescate Imposible (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="ESTRENOS 2024", Rescate Imposible (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537686.mkv
+#EXTINF: -1 tvg-name="Macho Alfa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XJUE3pTzjPlK1fRJMVcsG710dY.jpg" group-title="ESTRENOS 2024", Macho Alfa (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537685.mkv
+#EXTINF: -1 tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="ESTRENOS 2024", Kung Fu Panda 4 (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537684.mkv
+#EXTINF: -1 tvg-name="¡Huye! (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg" group-title="ESTRENOS 2024", ¡Huye! (2017)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537683.mkv
+#EXTINF: -1 tvg-name="El Juicio Del Motin Del Caine (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgsRDgJ2chdXlTS05AREJUA8e9U.jpg" group-title="ESTRENOS 2024", El Juicio Del Motin Del Caine (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537682.mkv
+#EXTINF: -1 tvg-name="Sobre las Lineas Enemigas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtPPOPTad1qopK6uDe3VlYUa22o.jpg" group-title="ESTRENOS 2024", Sobre las Lineas Enemigas (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537807.mkv
+#EXTINF: -1 tvg-name="Notas sobre un verano (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2adXtca9zYSoU37s6uY33GhFkKo.jpg" group-title="ESTRENOS 2024", Notas sobre un verano (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537806.mkv
+#EXTINF: -1 tvg-name="Mamacruz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgP6WYxS9td7Rq8ZBONvOvtHBIs.jpg" group-title="ESTRENOS 2024", Mamacruz (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537805.mkv
+#EXTINF: -1 tvg-name="El roomie (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaRzz2BxjxIVb7ja0gSedj1Hn1E.jpg" group-title="ESTRENOS 2024", El roomie (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537929.mkv
+#EXTINF: -1 tvg-name="La ultima sesion de Freud (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kG3AuMyg8IVB55HKcMJi5WhZe4W.jpg" group-title="ESTRENOS 2024", La ultima sesion de Freud (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/537930.mkv
+#EXTINF: -1 tvg-name="Amar Singh Chamkila (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aButBgUMFxnduH3TyUSPGhTKW75.jpg" group-title="ESTRENOS 2024", Amar Singh Chamkila (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538087.mkv
+#EXTINF: -1 tvg-name="El Pajaro Loco se va de campamento (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QH5RsaOJUk2p3R7j0dXzK4IyMQ.jpg" group-title="ESTRENOS 2024", El Pajaro Loco se va de campamento (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538088.mkv
+#EXTINF: -1 tvg-name="El viaje (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/minYA6S4iDF4Vf8A4CzvnVCwJWa.jpg" group-title="ESTRENOS 2024", El viaje (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538089.mkv
+#EXTINF: -1 tvg-name="Fuego contra fuego (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n005O8A0VSnHpMLnjdPixEZJk94.jpg" group-title="ESTRENOS 2024", Fuego contra fuego (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538090.mkv
+#EXTINF: -1 tvg-name="Las que ustedes no quemaron (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwL4MbF2poznrXUbrZljPgEmLbT.jpg" group-title="ESTRENOS 2024", Las que ustedes no quemaron (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538091.mkv
+#EXTINF: -1 tvg-name="Mi ultimo deseo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lA3NSgpScnMQoJS7H8G3w2zCcx6.jpg" group-title="ESTRENOS 2024", Mi ultimo deseo (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538092.mkv
+#EXTINF: -1 tvg-name="Pared con pared (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/simGu8aqvh6WTUI4rusEGPWCgO7.jpg" group-title="ESTRENOS 2024", Pared con pared (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538093.mkv
+#EXTINF: -1 tvg-name="Posesiones (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3YdnWSgRENebagikyISlJRpZqg.jpg" group-title="ESTRENOS 2024", Posesiones (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538094.mkv
+#EXTINF: -1 tvg-name="Robo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBaI9ZYnXGcDOmc0QCCDU6CqQB1.jpg" group-title="ESTRENOS 2024", Robo (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538095.mkv
+#EXTINF: -1 tvg-name="¿Quién Se Quedará con Masha? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8lzqCN3DOGoWLNc9jeUCjjUPug.jpg" group-title="ESTRENOS 2024", ¿Quién Se Quedará con Masha? (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538096.mkv
+#EXTINF: -1 tvg-name="Los Tres Mosqueteros: Milady (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxttOyp3kVIuR86bUOLOcfkYpYN.jpg" group-title="ESTRENOS 2024", Los Tres Mosqueteros: Milady (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538713.mkv
+#EXTINF: -1 tvg-name="Reunión (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcKGtvP2TPZB6OGlHgkhQ1rvuBB.jpg" group-title="ESTRENOS 2024", Reunión (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538714.mkv
+#EXTINF: -1 tvg-name="Duna: Parte dos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg" group-title="ESTRENOS 2024", Duna: Parte dos (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538715.mkv
+#EXTINF: -1 tvg-name="La batalla de los super simios (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJaIw8OgACelojyV6YuVsOhtTLO.jpg" group-title="ESTRENOS 2024", La batalla de los super simios (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538863.mkv
+#EXTINF: -1 tvg-name="Elevator Game (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4Zb13jow8RqJkYFgCUSdmzJCWq.jpg" group-title="ESTRENOS 2024", Elevator Game (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538959.mkv
+#EXTINF: -1 tvg-name="Impuratus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/envyX0HNcdcmhtsuJIC3bUNSJFl.jpg" group-title="ESTRENOS 2024", Impuratus (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538960.mkv
+#EXTINF: -1 tvg-name="The Woman Under the Stage (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ93jIMOsdrZauhLtIPAM6PYVVR.jpg" group-title="ESTRENOS 2024", The Woman Under the Stage (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/538963.mkv
+#EXTINF: -1 tvg-name="¿Qué hizo Jennifer? (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3PJPXuSArGK8tM6lBUyPUTtIbJ.jpg" group-title="ESTRENOS 2024", ¿Qué hizo Jennifer? (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539089.mkv
+#EXTINF: -1 tvg-name="Rebel Moon - Parte dos: La guerrera que deja marcas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjzKQIzstuPwLdQ5qj23JS55rbO.jpg" group-title="ESTRENOS 2024", Rebel Moon - Parte dos: La guerrera que deja marcas (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539088.mkv
+#EXTINF: -1 tvg-name="Popular Theory (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgmmOYxb013TGeXfR5EHeqJV7Nu.jpg" group-title="ESTRENOS 2024", Popular Theory (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539087.mkv
+#EXTINF: -1 tvg-name="Miedo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkS4Z9A0USEqDZ7oFJiA3DrXG4V.jpg" group-title="ESTRENOS 2024", Miedo (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539086.mkv
+#EXTINF: -1 tvg-name="Thi Yot - Susurros Mortales (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fI8JLrfokcOAKhFoL9ZXNv0qKxC.jpg" group-title="ESTRENOS 2024", Thi Yot - Susurros Mortales (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539084.mkv
+#EXTINF: -1 tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas - Parte 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOT8n3YOOkInZ5VHJN4FffHrm43.jpg" group-title="ESTRENOS 2024", Liga de la Justicia: Crisis en Tierras Infinitas - Parte 2 (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539470.mkv
+#EXTINF: -1 tvg-name="The Night They Came Home (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg" group-title="ESTRENOS 2024", The Night They Came Home (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539469.mkv
+#EXTINF: -1 tvg-name="Minsk En Llamas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cit3DpLqOxXzpW6OIeC2KGdaJJ7.jpg" group-title="ESTRENOS 2024", Minsk En Llamas (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539732.mkv
+#EXTINF: -1 tvg-name="Downtown Owl (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJc9FJehQALnKOAwCdLVbqgeycQ.jpg" group-title="ESTRENOS 2024", Downtown Owl (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539731.mkv
+#EXTINF: -1 tvg-name="Nightman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpaos88xaADUCA0KavKW7PhJQ3R.jpg" group-title="ESTRENOS 2024", Nightman (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539982.mkv
+#EXTINF: -1 tvg-name="Gato Galáctico y el hechizo del tiempo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj5L9BlAQWN8y3YJsxnMAI6cVo3.jpg" group-title="ESTRENOS 2024", Gato Galáctico y el hechizo del tiempo (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539983.mkv
+#EXTINF: -1 tvg-name="The Quantum Devil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OQG9KPo7H1NO17xFo86a95UC3U.jpg" group-title="ESTRENOS 2024", The Quantum Devil (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/539984.mkv
+#EXTINF: -1 tvg-name="Black Lotus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3AeW200hqGLxoPyHMDHpzudylz.jpg" group-title="ESTRENOS 2024", Black Lotus (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540123.mkv
+#EXTINF: -1 tvg-name="El ultimo paciente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWnMWYOeIDjPV8aeTmQoEk5saib.jpg" group-title="ESTRENOS 2024", El ultimo paciente (2022)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540119.mkv
+#EXTINF: -1 tvg-name="Hunt Club (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmMazCTqdQNaqeCVeKysT6I3uz4.jpg" group-title="ESTRENOS 2024", Hunt Club (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540118.mkv
+#EXTINF: -1 tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="ESTRENOS 2024", City Hunter (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540117.mkv
+#EXTINF: -1 tvg-name="Atrapados En Lo Profundo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg" group-title="ESTRENOS 2024", Atrapados En Lo Profundo (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540116.mkv
+#EXTINF: -1 tvg-name="Antares de la Luz: La secta del fin del mundo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg" group-title="ESTRENOS 2024", Antares de la Luz: La secta del fin del mundo (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540115.mkv
+#EXTINF: -1 tvg-name="Sayen: La Cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkvIQqHCEE0pj0yGJqsYC97vjjI.jpg" group-title="ESTRENOS 2024", Sayen: La Cazadora (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540303.mkv
+#EXTINF: -1 tvg-name="Puan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iusTlaCKAv6JQmPXdmHyRTSLeae.jpg" group-title="ESTRENOS 2024", Puan (2023)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540302.mkv
+#EXTINF: -1 tvg-name="Operación Esperanza: Los niños perdidos en el Amazonas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0ZbUTH2yl0w2OyAK9nkJjdOG3C.jpg" group-title="ESTRENOS 2024", Operación Esperanza: Los niños perdidos en el Amazonas (2024)
+http://home-playtv.com:8080/movie/Gabriel20/MTPYK/540301.mkv
