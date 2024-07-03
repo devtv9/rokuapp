@@ -18,19 +18,19 @@ http://50.114.108.26:5473/push/forotv/chunk_Auth=ix08x/playlist.m3u8
 http://50.114.108.26:5473/107azteca7/transco1/chunk_Auth=ix08x/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://i.imgur.com/PYGgtGX.png" group-title="ESP | LOCALES",AZTECA 7
-http://50.114.108.24:5473/alpha/aztecaMTY/chunk_Auth=ix08x/playlist.m3u8
+http://50.114.108.26:5473/alpha/aztecaMTY/chunk_Auth=ix08x/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://i.imgur.com/UCGlyST.png" group-title="ESP | LOCALES",AZTECA UNO
-http://50.114.108.24:5473/113azteca13/transco1/chunk_Auth=ix08x/playlist.m3u8
+http://50.114.108.26:5473/113azteca13/transco1/chunk_Auth=ix08x/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://i.imgur.com/UCGlyST.png" group-title="ESP | LOCALES",AZTECA UNO
-http://50.114.108.24:5473/alpha/uno/chunk_Auth=ix08x/playlist.m3u8
+http://50.114.108.26:5473/alpha/uno/chunk_Auth=ix08x/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TELEVISION" tvg-logo="http://i.imgur.com/A5p6PZ2.jpg" group-title="ESP | LOCALES",IMAGEN TELEVISION
-http://50.114.108.24:5473/103Imagen/transco13/chunk_Auth=ix08x/playlist.m3u8
+http://50.114.108.26:5473/103Imagen/transco13/chunk_Auth=ix08x/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TELEVISION" tvg-logo="http://i.imgur.com/A5p6PZ2.jpg" group-title="ESP | LOCALES",IMAGEN TELEVISION
-http://50.114.108.24:5473/alpha/imagentv/chunk_Auth=ix08x/playlist.m3u8
+http://50.114.108.26:5473/alpha/imagentv/chunk_Auth=ix08x/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/LhFN2fA.jpg?1" group-title="ESP | CINEMA",STAR CHANNEL
 http://50.114.108.24:5473/202CanalFOXMexico/transco1/chunk_Auth=ix08x/playlist.m3u8
